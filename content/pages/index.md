@@ -6,9 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Being a landlord made easy
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      SquireCircle is a platform that helps being a landlord a breeze.
     actions:
       - label: Learn More
         url: /features
