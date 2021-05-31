@@ -89,7 +89,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Want to try it out?
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Download our android / iOS mobile application
     actions:
       - label: Get Started
         url: /signup
